@@ -1,4 +1,4 @@
-module comparator(w,x,y,z,a,b,c,d,e,f,g);
+module bcd_to_7seg(w,x,y,z,a,b,c,d,e,f,g);
   input w,x,y,z;
   output reg a,b,c,d,e,f,g;
   
